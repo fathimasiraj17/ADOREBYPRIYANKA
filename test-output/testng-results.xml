@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T19:17:33 IST" name="Default suite" finished-at="2024-05-30T19:18:29 IST" duration-ms="55986">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T19:17:33 IST" name="Default test" finished-at="2024-05-30T19:18:29 IST" duration-ms="55986">
+      <class name="testpkg.AdoreTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:17:33 IST" name="setUp" finished-at="2024-05-30T19:17:43 IST" duration-ms="9626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:17:43 IST" name="bfrmthd" finished-at="2024-05-30T19:17:43 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="signInTest()[pri:1, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:17:43 IST" name="signInTest" finished-at="2024-05-30T19:18:03 IST" duration-ms="20126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:03 IST" name="bfrmthd" finished-at="2024-05-30T19:18:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="logoVerification()[pri:2, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:03 IST" name="logoVerification" finished-at="2024-05-30T19:18:03 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoVerification -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:03 IST" name="bfrmthd" finished-at="2024-05-30T19:18:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="searchTest()[pri:3, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:03 IST" name="searchTest" finished-at="2024-05-30T19:18:06 IST" duration-ms="2466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:06 IST" name="bfrmthd" finished-at="2024-05-30T19:18:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="wishlistTest()[pri:4, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:06 IST" name="wishlistTest" finished-at="2024-05-30T19:18:14 IST" duration-ms="8160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlistTest -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:14 IST" name="bfrmthd" finished-at="2024-05-30T19:18:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="menulist()[pri:5, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:14 IST" name="menulist" finished-at="2024-05-30T19:18:24 IST" duration-ms="10431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menulist -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:24 IST" name="bfrmthd" finished-at="2024-05-30T19:18:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="linkCountTest()[pri:6, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:24 IST" name="linkCountTest" finished-at="2024-05-30T19:18:27 IST" duration-ms="2219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkCountTest -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:27 IST" name="bfrmthd" finished-at="2024-05-30T19:18:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="menuDisplay()[pri:7, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:27 IST" name="menuDisplay" finished-at="2024-05-30T19:18:27 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuDisplay -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:27 IST" name="bfrmthd" finished-at="2024-05-30T19:18:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="pageScrnsht()[pri:8, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:27 IST" name="pageScrnsht" finished-at="2024-05-30T19:18:29 IST" duration-ms="1931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageScrnsht -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:29 IST" name="bfrmthd" finished-at="2024-05-30T19:18:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="logoScreenshot()[pri:9, instance:testpkg.AdoreTest@f78a47e]" started-at="2024-05-30T19:18:29 IST" name="logoScreenshot" finished-at="2024-05-30T19:18:29 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoScreenshot -->
+      </class> <!-- testpkg.AdoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
